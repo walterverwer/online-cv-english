@@ -130,8 +130,8 @@ skills:
       - name: Python, R, MATLAB, Git, LaTeX
         level: 100%
 
-      - name: Julia
+      - name: SQL
         level: 70%
       
-      - name: SQL
+      - name: Julia
         level: 30%
