@@ -109,13 +109,10 @@ experiences:
         - Advised programme management on curriculum improvements.
 
 publications:
-    title: Grants & Scholarships
+    title: Certifications
     papers:
-      - title: University Research Fellowship scholarship
-        authors: €10.000
-      - title: Tinbergen Institute study grant
-        authors: €7.080 & tuition waiver
-
+      - title: Databricks Certified Data Analyst
+      - title: Microsoft PL-300: Power BI Data Analyst
 skills:
     title: Skills & Proficiency
 
@@ -132,5 +129,5 @@ skills:
       - name: ML Engineering — modular codebases, reproducible workflows
         level: 70%
 
-      - name: Tools — Databricks, PowerBI
+      - name: Tools — Databricks, Power BI
         level: 70%
