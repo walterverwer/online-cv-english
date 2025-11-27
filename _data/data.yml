@@ -138,7 +138,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, Git, LaTeX
+      - name: Python, Git, LaTeX, PowerBi (PL-300 certified), Databricks (certified)
         level: 100%
 
       - name: SQL
