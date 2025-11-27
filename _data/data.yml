@@ -16,7 +16,7 @@ sidebar:
     phone: +31 6 445 484 11
     timezone: Amsterdam (GMT +1)
     citizenship: Dutch
-    website: sites.google.com/view/walterverwer #do not add http://
+    # website: sites.google.com/view/walterverwer #do not add http://
     linkedin: walterverwer
     xing: 
     github: walterverwer
@@ -41,10 +41,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Bouldering
+        - item: Sports (running, bouldering, fitness & swimming)
           link:
 
-        - item: Skiing
+        - item: Fishing
           link:
 
         - item: Cooking
