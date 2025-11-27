@@ -71,7 +71,7 @@ experiences:
         - Developed PD and LGD models end-to-end (data sourcing, data quality checks, feature engineering, model development, validation, documentation).
         - Contributed to building a unified modelling codebase for PD and LGD, including automated unit testing and structured workflows.
         - Set up automated unit testing using Azure DevOps pipelines.
-        - - Worked in a highly regulated environment with strict requirements for explainability, validation and reproducibility.
+        - Worked in a highly regulated environment with strict requirements for explainability, validation and reproducibility.
         - Represented model components during stakeholder meetings and regulatory interactions.
         - Mentored junior team members in modelling workflows and Python best practices.
         - Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
