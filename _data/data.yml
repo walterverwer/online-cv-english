@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Walter Verwer
-    tagline: Data Scientist | Credit Risk Modelling
+    tagline: Data Scientist | Credit Risk Modelling | AI/ML Applications
     avatar: walterverwer.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -83,17 +83,18 @@ experiences:
       time: Feb 2023 - Present
       company: ABN AMRO Bank N.V.
       details: |
-        - Developed PD and LGD models end-to-end (data cleaning, feature engineering, model development, validation, documentation).
-        - Worked with financial datasets in a highly regulated and complex environment focused on explainability and model governance.
+        - Developed PD and LGD models end-to-end (data sourcing, data set creation, data cleaning, feature engineering, model development, validation, documentation).
+        - Contributed to building a unified modelling codebase for PD and LGD, including data preparation, model training, evaluation, and automated unit testing.
+        - Worked with financial datasets in a highly regulated environment focused on explainability and model governance.
         - Represented model components during stakeholder meetings and regulatory discussions.
         - Mentored junior team members in modelling workflows and Python best practices.
         - Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
 
     - role: Economics Teacher
-      time: Oct 2022 - Present
+      time: Oct 2022 - Jan 2023
       company: Andreas College
       details: |
-        - Taught economics to high school students (ages 13–17).
+        - Taught economics to high school students (ages 13–17), improving communication skills and ability to explain complex topics clearly.
 
     - role: University Research Fellow
       time: Aug 2019 - Sep 2020
@@ -140,6 +141,12 @@ skills:
     toolset:
       - name: Python, Git, LaTeX, Databricks, PowerBi
         level: 100%
+        
+      - name: Machine Learning (PD/LGD modelling, data sourcing, data quality & validation)
+        level: 90%
+        
+      - name: ML Engineering (modular codebases, testing, reproducible modelling)
+        level: 60%
 
       - name: SQL
         level: 70%
