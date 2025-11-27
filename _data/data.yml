@@ -80,7 +80,7 @@ experiences:
   title: Experiences
   info:
     - role: Data Scientist - Credit Risk Modelling
-      time: Sep 2022 - Present
+      time: Feb 2023 - Present
       company: ABN AMRO Bank N.V.
       details: |
         - Developed PD and LGD models end-to-end (data cleaning, feature engineering, model development, validation, documentation).
