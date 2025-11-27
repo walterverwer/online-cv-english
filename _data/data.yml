@@ -111,8 +111,15 @@ experiences:
 publications:
     title: Certifications
     papers:
+      - title: Microsoft PL-300 — Power BI Data Analyst
+        link:
+        authors:
+        conference:
+
       - title: Databricks Certified Data Analyst
-      - title: Microsoft PL-300: Power BI Data Analyst
+        link:
+        authors:
+        conference:
 skills:
     title: Skills & Proficiency
 
