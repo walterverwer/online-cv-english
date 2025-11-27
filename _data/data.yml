@@ -83,25 +83,25 @@ experiences:
       time: Sep 2022 – Present
       company: ABN AMRO Bank N.V.
       details: |
-        • Developed PD and LGD models end-to-end (data cleaning, feature engineering, model development, validation, documentation).
-        • Worked with financial datasets in a highly regulated environment and complex environment focused on explainability and model governance.
-        • Represented model components during stakeholder meetings and regulatory discussions.
-        • Mentored junior team members in modelling workflows and Python best practices.
-        • Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
+        - Developed PD and LGD models end-to-end (data cleaning, feature engineering, model development, validation, documentation).
+        - Worked with financial datasets in a highly regulated environment and complex environment focused on explainability and model governance.
+        - Represented model components during stakeholder meetings and regulatory discussions.
+        - Mentored junior team members in modelling workflows and Python best practices.
+        - Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
 
     - role: Economics Teacher
       time: Oct 2022 – Present
       company: Andreas College
       details: |
-        • Taught economics to high school students (ages 13–17).
+        - Taught economics to high school students (ages 13–17).
     
       - role: University Research Fellow
       time: Aug 2019 – Sep 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        • Conducted empirical research using VAR and VECM time-series models.
-        • Awarded €10,000 research grant.
-        • Worked primarily in Python.
+        - Conducted empirical research using VAR and VECM time-series models.
+        - Awarded €10,000 research grant.
+        - Worked primarily in Python.
 
     - role: Graduate Teaching Assistant
       time: Aug 2021 – Apr 2022
@@ -113,13 +113,13 @@ experiences:
       time: Sep 2017 – Aug 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        • Provided study information sessions to groups of 50–300 students.
+        - Provided study information sessions to groups of 50–300 students.
 
     - role: Programme Committee Member
       time: Sep 2017 – Aug 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        • Advised programme management on curriculum improvements.
+        - Advised programme management on curriculum improvements.
 
 publications:
     title: Grants & Scholarships
@@ -138,11 +138,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, R, MATLAB, Git, LaTeX
+      - name: Python, Git, LaTeX
         level: 100%
 
       - name: SQL
         level: 70%
       
-      - name: Julia
+      - name: Julia, R, MATLAB
         level: 30%
