@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Walter Verwer
-    tagline: Financial Econometrician
+    tagline: Data Scientist | Credit Risk Modelling
     avatar: walterverwer.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,13 +53,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a graduate from Tinbergen Institute. At Tinbergen Institute I specialized in finance and econometrics. 
-      My working experience has been both in theoretical and empirical financial research. For example, empirically I have conducted research into the impact of
-      Covid-19 on trading flows in future markets using Vector Autoregressive (VAR) and Vector Error Correction Models (VECM). Theoretically I have developed a
-      continuous-time investment model with ESG investors. This model developped by me during my master at Tinbergen Institute is simulated using Ordinary Differential
-      Equation (ODE) solvers to show how environmental regulation and investors' preferences for ESG affect sustainable investments. For my work I have been awarded various
-      scholarships and research grants (in total approximately €20.000). I have declined a PhD position at Erasmus University Rotterdam to search for a job in the industry.
-      Currently, I am working as a teacher in a high school while I am searching for a job in the industry.
+      I am a Data Scientist with three years of experience in Credit Risk Modelling at ABN AMRO, 
+      where I have developed PD and LGD models end-to-end in a highly regulated financial environment.
+      I enjoy building practical AI/ML solutions that add direct value for the business, and I work 
+      well in dynamic environments where innovation is encouraged. I have a strong academic foundation 
+      from the Tinbergen Institute research master (PhD-level coursework) in econometrics and finance.
 education:
     title: Education
     info:
@@ -81,34 +79,47 @@ education:
 experiences:
     title: Experiences
     info:
+    - role: Data Scientist – Credit Risk Modelling
+      time: Sep 2022 – Present
+      company: ABN AMRO Bank N.V.
+      details: |
+        • Developed PD and LGD models end-to-end (data cleaning, feature engineering, model development, validation, documentation).
+        • Worked with financial datasets in a highly regulated environment and complex environment focused on explainability and model governance.
+        • Represented model components during stakeholder meetings and regulatory discussions.
+        • Mentored junior team members in modelling workflows and Python best practices.
+        • Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
+
+    - role: Economics Teacher
+      time: Oct 2022 – Present
+      company: Andreas College
+      details: |
+        • Taught economics to high school students (ages 13–17).
+    
       - role: University Research Fellow
-        time: Aug 2019 - Sep 2020
-        company: Vrije Universiteit (VU) Amsterdam
-        details: |
-          As a University Research Fellow (URF) I have worked on various research projects under the supervision of prof. dr. Albert Menkveld. For this positition I obtained a €10.000 research grant.
-          In particular I worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
-          Vector Autoregressive and Vector Error Correction models. As a URF I worked mostly in Python.
-      - role: Economics Teacher
-        time: Okt 2022 - Present
-        company: Andreas College
-        details: |
-          Teaching economics to high school students aged 13-17. Temporarily taking this job while searching for an industry related job and out of curiousity.
-      - role: Graduate level student assistent
-        time: Aug 2021 - Apr 2022
-        company: Tinbergen Institute
-        details: |
-          I have taught programming in Python and Corporate Finance at graduate level to Tinbergen Institute and Business and Data Science students.
-      - role: Student representative
-        time: Sep 2017 - Aug 2020
-        company: Vrije Universiteit (VU) Amsterdam
-        details: |
-            As a student representative I have informed groups ranging from 50 till 300 students about studying economics and business economics at the Vrije Universiteit.
-      - role: Programme committee member
-        time: Sep 2017 - Aug 2020
-        company: Vrije Universiteit (VU) Amsterdam
-        details: |
-            I was a member of the programme committee of economics and business economics, in which my main role was to advise the programme
-            director and programme management of the bachelor economics and business economics about various topics in education.
+      time: Aug 2019 – Sep 2020
+      company: Vrije Universiteit Amsterdam
+      details: |
+        • Conducted empirical research using VAR and VECM time-series models.
+        • Awarded €10,000 research grant.
+        • Worked primarily in Python.
+
+    - role: Graduate Teaching Assistant
+      time: Aug 2021 – Apr 2022
+      company: Tinbergen Institute
+      details: |
+        • Taught Python programming and Corporate Finance at graduate level.
+
+    - role: Student Representative
+      time: Sep 2017 – Aug 2020
+      company: Vrije Universiteit Amsterdam
+      details: |
+        • Provided study information sessions to groups of 50–300 students.
+
+    - role: Programme Committee Member
+      time: Sep 2017 – Aug 2020
+      company: Vrije Universiteit Amsterdam
+      details: |
+        • Advised programme management on curriculum improvements.
 
 publications:
     title: Grants & Scholarships
