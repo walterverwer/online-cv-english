@@ -77,26 +77,26 @@ education:
           We conducted research in the impact of Covid-19 on financial markets using state of the art time series models.
           
 experiences:
-    title: Experiences
-    info:
-    - role: Data Scientist – Credit Risk Modelling
-      time: Sep 2022 – Present
+  title: Experiences
+  info:
+    - role: Data Scientist - Credit Risk Modelling
+      time: Sep 2022 - Present
       company: ABN AMRO Bank N.V.
       details: |
         - Developed PD and LGD models end-to-end (data cleaning, feature engineering, model development, validation, documentation).
-        - Worked with financial datasets in a highly regulated environment and complex environment focused on explainability and model governance.
+        - Worked with financial datasets in a highly regulated and complex environment focused on explainability and model governance.
         - Represented model components during stakeholder meetings and regulatory discussions.
         - Mentored junior team members in modelling workflows and Python best practices.
         - Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
 
     - role: Economics Teacher
-      time: Oct 2022 – Present
+      time: Oct 2022 - Present
       company: Andreas College
       details: |
         - Taught economics to high school students (ages 13–17).
-    
-      - role: University Research Fellow
-      time: Aug 2019 – Sep 2020
+
+    - role: University Research Fellow
+      time: Aug 2019 - Sep 2020
       company: Vrije Universiteit Amsterdam
       details: |
         - Conducted empirical research using VAR and VECM time-series models.
@@ -104,19 +104,19 @@ experiences:
         - Worked primarily in Python.
 
     - role: Graduate Teaching Assistant
-      time: Aug 2021 – Apr 2022
+      time: Aug 2021 - Apr 2022
       company: Tinbergen Institute
       details: |
-        • Taught Python programming and Corporate Finance at graduate level.
+        - Taught Python programming and Corporate Finance at graduate level.
 
     - role: Student Representative
-      time: Sep 2017 – Aug 2020
+      time: Sep 2017 - Aug 2020
       company: Vrije Universiteit Amsterdam
       details: |
         - Provided study information sessions to groups of 50–300 students.
 
     - role: Programme Committee Member
-      time: Sep 2017 – Aug 2020
+      time: Sep 2017 - Aug 2020
       company: Vrije Universiteit Amsterdam
       details: |
         - Advised programme management on curriculum improvements.
