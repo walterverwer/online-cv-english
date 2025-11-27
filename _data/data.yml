@@ -120,17 +120,17 @@ skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Python (Pandas, PySpark, Scikit-Learn), Git, Databricks, PowerBI
+      - name: Programming & Libraries — Python (Pandas, PySpark, Scikit-learn), Git, SQL
         level: 100%
 
-      - name: Machine Learning (PD/LGD modelling, data sourcing, data quality & validation)
+      - name: Machine Learning — PD/LGD modelling, data sourcing, data quality & validation
         level: 90%
 
-      - name: Azure DevOps (CI/CD pipelines, automated unit testing)
-        level: 60%
+      - name: MLOps & Cloud — Azure DevOps (CI/CD pipelines, unit testing)
+        level: 70%
 
-      - name: ML Engineering (modular codebases, reproducible workflows)
-        level: 60%
+      - name: ML Engineering — modular codebases, reproducible workflows
+        level: 70%
 
-      - name: SQL, R, MATLAB
-        level: 40%
+      - name: Tools — Databricks, PowerBI
+        level: 70%
