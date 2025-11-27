@@ -39,15 +39,6 @@ sidebar:
           level: Professional
 
     interests:
-      title: Certificates
-      info:
-        - item: PL-300 PowerBi Certificate
-          link:
-
-        - item: Databricks Certified Data Analyst Associate
-          link:
-
-    interests:
       title: Interests
       info:
         - item: Sports (running, bouldering, fitness & swimming)
