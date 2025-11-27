@@ -82,6 +82,12 @@ experiences:
       details: |
         - Taught economics to high school students (ages 13–17), improving communication and explanation skills.
 
+    - role: Graduate Teaching Assistant
+      time: Aug 2021 - Apr 2022
+      company: Tinbergen Institute
+      details: |
+        - Taught Python programming and Corporate Finance at graduate level.
+
     - role: University Research Fellow
       time: Aug 2019 - Sep 2020
       company: Vrije Universiteit Amsterdam
@@ -89,12 +95,6 @@ experiences:
         - Conducted empirical research using VAR and VECM time-series models.
         - Awarded €10,000 research grant.
         - Worked primarily in Python.
-
-    - role: Graduate Teaching Assistant
-      time: Aug 2021 - Apr 2022
-      company: Tinbergen Institute
-      details: |
-        - Taught Python programming and Corporate Finance at graduate level.
 
     - role: Student Representative
       time: Sep 2017 - Aug 2020
