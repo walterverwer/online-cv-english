@@ -3,38 +3,27 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False
+    education: True
 
     # Profile information
     name: Walter Verwer
     tagline: Data Scientist | Credit Risk Modelling | AI/ML Applications
-    avatar: walterverwer.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: walterverwer.jpeg
 
     # Sidebar links
     email: walterverwer@gmail.com
     phone: +31 6 445 484 11
     timezone: Amsterdam (GMT +1)
     citizenship: Dutch
-    # website: sites.google.com/view/walterverwer #do not add http://
     linkedin: walterverwer
-    xing: 
     github: walterverwer
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
 
     languages:
       title: Languages
       info:
         - idiom: Dutch
           level: Native
-
         - idiom: English
           level: Professional
 
@@ -42,22 +31,18 @@ sidebar:
       title: Interests
       info:
         - item: Sports (running, bouldering, fitness & swimming)
-          link:
-
         - item: Fishing
-          link:
-
         - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a Data Scientist with three years of experience in Credit Risk Modelling at ABN AMRO, 
+      I am a Data Scientist with three years of experience in Credit Risk Modelling at ABN AMRO,
       where I have developed PD and LGD models end-to-end in a highly regulated financial environment.
-      I enjoy building practical AI/ML solutions that add direct value for the business, and I work 
-      well in dynamic environments where innovation is encouraged. I have a strong academic foundation 
+      I enjoy building practical AI/ML solutions that add direct value for the business, and I work
+      well in dynamic environments where innovation is encouraged. I have a strong academic foundation
       from the Tinbergen Institute research master (PhD-level coursework) in econometrics and finance.
+
 education:
     title: Education
     info:
@@ -65,17 +50,17 @@ education:
         university: Tinbergen Institute
         time: Sep 2020 - Aug 2022
         details: |
-          Tinbergen Institute (TI) is the graduate school and research institute operated jointly by the Schools of Economics and Econometrics of Erasmus
-          University Rotterdam (EUR), University of Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU). Tinbergen Institute offers a selective research master 
-          program in economics, econometrics and finance, connected to PhD opportunities. I have specialized in finance and econometrics.
+          Tinbergen Institute (TI) is the graduate school and research institute operated jointly by the Schools of Economics and Econometrics
+          of Erasmus University Rotterdam (EUR), University of Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU). TI offers a selective research
+          master program connected to PhD opportunities. I specialized in finance and econometrics.
+
       - degree: BSc in Economics and Business Economics (cum laude)
-        university: Vrije Universiteit (VU) Amsterdam
+        university: Vrije Universiteit Amsterdam
         time: Sep 2017 - Aug 2020
         details: |
-          During my studies I have specialized in finance and econometrics. I have swapped econometrics courses with courses from my bachelor, and I have
-          finished a minor in econometrics. Next to coursework I worked for one year as a University Research Fellowship with prof. dr. Albert Menkveld.
-          We conducted research in the impact of Covid-19 on financial markets using state of the art time series models.
-          
+          Specialized in finance and econometrics. Completed minor in econometrics and worked one year as a University Research Fellow
+          researching the impact of Covid-19 on financial markets using advanced time-series models.
+
 experiences:
   title: Experiences
   info:
@@ -83,18 +68,19 @@ experiences:
       time: Feb 2023 - Present
       company: ABN AMRO Bank N.V.
       details: |
-        - Developed PD and LGD models end-to-end (data sourcing, data set creation, data cleaning, feature engineering, model development, validation, documentation).
-        - Contributed to building a unified modelling codebase for PD and LGD, including data preparation, model training, evaluation, and automated unit testing.
-        - Worked with financial datasets in a highly regulated environment focused on explainability and model governance.
-        - Represented model components during stakeholder meetings and regulatory discussions.
+        - Developed PD and LGD models end-to-end (data sourcing, data quality checks, feature engineering, model development, validation, documentation).
+        - Contributed to building a unified modelling codebase for PD and LGD, including automated unit testing and structured workflows.
+        - Set up automated unit testing using Azure DevOps pipelines.
+        - Worked in a highly regulated environment focused on explainability, governance and reproducibility.
+        - Represented model components during stakeholder meetings and regulatory interactions.
         - Mentored junior team members in modelling workflows and Python best practices.
         - Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
 
-    - role: Economics Teacher
-      time: Oct 2022 - Jan 2023
+    - role: Economics Teacher (part-time)
+      time: Oct 2022 - Present
       company: Andreas College
       details: |
-        - Taught economics to high school students (ages 13–17), improving communication skills and ability to explain complex topics clearly.
+        - Taught economics to high school students (ages 13–17), improving communication and explanation skills.
 
     - role: University Research Fellow
       time: Aug 2019 - Sep 2020
@@ -126,30 +112,25 @@ publications:
     title: Grants & Scholarships
     papers:
       - title: University Research Fellowship scholarship
-        link:
         authors: €10.000
-        conference:
-
       - title: Tinbergen Institute study grant
-        link:
         authors: €7.080 & tuition waiver
-        conference:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
-      - name: Python, Git, LaTeX, Databricks, PowerBi
+      - name: Python (Pandas, PySpark, Scikit-Learn), Git, Databricks, PowerBI
         level: 100%
-        
+
       - name: Machine Learning (PD/LGD modelling, data sourcing, data quality & validation)
         level: 90%
-        
-      - name: ML Engineering (modular codebases, testing, reproducible modelling)
+
+      - name: Azure DevOps (CI/CD pipelines, automated unit testing)
         level: 60%
 
-      - name: SQL
-        level: 70%
-      
-      - name: Julia, R, MATLAB
-        level: 30%
+      - name: ML Engineering (modular codebases, reproducible workflows)
+        level: 60%
+
+      - name: SQL, R, MATLAB
+        level: 40%
