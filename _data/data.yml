@@ -37,13 +37,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Data Scientist with a strong quantitative background and professional experience across AI/ML, credit risk modelling, quantitative research and teaching. I currently work at NN, where I lead machine learning projects and develop practical AI/ML solutions that support business decision-making.
+      I am a Data Scientist with a strong quantitative background and professional experience across AI/ML, financial risk modelling, quantitative research and teaching. I currently work at NN, where I lead machine learning projects and develop practical AI/ML solutions that support business decision-making.
 
-      Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, developing PD, LGD and EAD models end-to-end in a highly regulated financial environment. My background combines hands-on model development, stakeholder communication, reproducible ML workflows and financial risk expertise.
+      Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, developing PD, LGD and EAD models end-to-end in a highly regulated financial environment. My background combines hands-on model development, stakeholder communication, reproducible ML workflows, regulated modelling and financial risk expertise.
 
       In addition to my corporate data science experience, I have worked as a graduate researcher, university research fellow and full-time economics teacher. These experiences strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
 
-      I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, where I completed PhD-level coursework.
+      I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, where I completed PhD-level coursework in economics, econometrics and finance.
 
 education:
     title: Education
@@ -71,9 +71,8 @@ experiences:
         - Lead machine learning projects within Leven & Pensioen, including a lead generation model for existing and new business customers.
         - Own the full modelling workflow: business problem framing, data sourcing, dataset construction, feature engineering, model development, evaluation and stakeholder alignment.
         - Developed a reusable ML codebase to accelerate model development and improve consistency across projects.
-        - Work closely with business stakeholders to translate commercial and operational challenges into practical AI/ML solutions.
-        - Develop AI/ML solutions with a focus on practical implementation, adoption and measurable business value.
-        - Focus on reproducible workflows, model explainability, documentation and practical implementation.
+        - Work closely with business stakeholders to translate commercial and operational challenges into AI/ML solutions, with a focus on implementation, adoption, explainability and measurable business value.
+        - Apply reproducible workflows, clear documentation and practical model governance to ensure solutions are robust and transferable.
 
     - role: Data Scientist - Credit Risk Modelling
       time: Feb 2023 - Feb 2026
@@ -160,7 +159,7 @@ skills:
         level: 75%
 
       - name: Stakeholder Communication — translating complex analyses into clear business insights
-        level: 85%
+        level: 90%
 
       - name: Tools — Databricks, Power BI, Azure DevOps
         level: 75%
