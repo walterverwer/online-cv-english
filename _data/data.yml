@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Walter Verwer
-    tagline: Data Scientist | Credit Risk Modelling | AI/ML Applications | Quantitative Research
+    tagline: Data Scientist | Financial Risk Modelling | AI/ML Applications | Quantitative Research
     avatar: walterverwer_cropped.jpeg
 
     # Sidebar links
@@ -37,15 +37,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Data Scientist with a strong quantitative background and professional experience across AI/ML, credit risk modelling, quantitative research and teaching. 
-      I currently work at NN, where I lead machine learning projects and develop practical AI/ML solutions that support business decision-making. 
-      Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, where I developed PD and LGD models end-to-end in a highly regulated financial environment.
+      I am a Data Scientist with a strong quantitative background and professional experience across AI/ML, credit risk modelling, quantitative research and teaching. I currently work at NN, where I lead machine learning projects and develop practical AI/ML solutions that support business decision-making.
 
-      My background combines hands-on model development, stakeholder communication, reproducible ML workflows and financial risk expertise. 
-      In addition to my corporate data science experience, I have worked as a graduate researcher at Tinbergen Institute, as a university research fellow at Vrije Universiteit Amsterdam, and as a full-time economics teacher. 
-      These experiences have strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
+      Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, developing PD, LGD and EAD models end-to-end in a highly regulated financial environment. My background combines hands-on model development, stakeholder communication, reproducible ML workflows and financial risk expertise.
 
-      I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, with PhD-level coursework in econometrics and finance.
+      In addition to my corporate data science experience, I have worked as a graduate researcher, university research fellow and full-time economics teacher. These experiences strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
+
+      I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, where I completed PhD-level coursework in economics, econometrics and finance.
 
 education:
     title: Education
@@ -71,17 +69,17 @@ experiences:
       company: NN Group
       details: |
         - Lead machine learning projects within Leven & Pensioen, including a lead generation model for existing and new business customers.
-        - Responsible for the full modelling workflow: business problem framing, data sourcing, dataset construction, feature engineering, model development, evaluation and stakeholder alignment.
+        - Own the full modelling workflow: business problem framing, data sourcing, dataset construction, feature engineering, model development, evaluation and stakeholder alignment.
         - Developed a reusable ML codebase to accelerate model development and improve consistency across projects.
         - Work closely with business stakeholders to translate commercial and operational challenges into practical AI/ML solutions.
-        - Contribute to the development of AI/ML solutions that are intended to move beyond proof-of-concept and create direct business value.
+        - Develop AI/ML solutions with a focus on practical implementation, adoption and measurable business value.
         - Focus on reproducible workflows, model explainability, documentation and practical implementation.
 
     - role: Data Scientist - Credit Risk Modelling
       time: Feb 2023 - Feb 2026
       company: ABN AMRO Bank N.V.
       details: |
-        - Developed PD and LGD models end-to-end, including data sourcing, data quality checks, feature engineering, model development, validation support and documentation.
+        - Developed PD, LGD and EAD models end-to-end, including data sourcing, data quality checks, feature engineering, model development, validation support and documentation.
         - Worked in a highly regulated financial environment with strict requirements for explainability, validation, reproducibility and model governance.
         - Contributed to a unified modelling codebase for PD and LGD modelling, including structured workflows and reusable modelling components.
         - Set up automated unit testing using Azure DevOps pipelines.
@@ -152,7 +150,7 @@ skills:
       - name: Machine Learning & AI — supervised learning, risk modelling, model evaluation, AI/ML applications
         level: 90%
 
-      - name: Financial Modelling — credit risk, PD/LGD modelling, econometrics, time-series modelling
+      - name: Financial Modelling — credit risk, PD/LGD/EAD modelling, GLMs, econometrics, time-series modelling
         level: 90%
 
       - name: MLOps & Engineering — Azure DevOps, CI/CD pipelines, unit testing, reproducible workflows
