@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Walter Verwer
-    tagline: Data Scientist | Credit Risk Modelling | AI/ML Applications
+    tagline: Data Scientist | Credit Risk Modelling | AI/ML Applications | Quantitative Research
     avatar: walterverwer.jpeg
 
     # Sidebar links
@@ -37,11 +37,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     I am a Data Scientist with three years of experience in Credit Risk Modelling at ABN AMRO, 
-     where I developed PD and LGD models end-to-end in a highly regulated financial environment. 
-     I enjoy building practical AI/ML solutions that add direct value for the business, and I work 
-     well in dynamic environments where innovation is encouraged. I hold a research master from 
-     the Tinbergen Institute with PhD-level coursework in econometrics and finance.
+      I am a Data Scientist with a strong quantitative background and professional experience across AI/ML, credit risk modelling, quantitative research and teaching. 
+      I currently work at NN, where I lead machine learning projects and develop practical AI/ML solutions that support business decision-making. 
+      Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, where I developed PD and LGD models end-to-end in a highly regulated financial environment.
+
+      My background combines hands-on model development, stakeholder communication, reproducible ML workflows and financial risk expertise. 
+      In addition to my corporate data science experience, I have worked as a graduate researcher at Tinbergen Institute, as a university research fellow at Vrije Universiteit Amsterdam, and as a full-time economics teacher. 
+      These experiences have strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
+
+      I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, with PhD-level coursework in econometrics and finance.
 
 education:
     title: Education
@@ -50,63 +54,80 @@ education:
         university: Tinbergen Institute
         time: Sep 2020 - Aug 2022
         details: |
-          Tinbergen Institute (TI) is the graduate school and research institute operated jointly by the Schools of Economics and Econometrics
-          of Erasmus University Rotterdam (EUR), University of Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU). TI offers a selective research
-          master program connected to PhD opportunities. I specialized in finance and econometrics.
+          Tinbergen Institute is the graduate school and research institute operated jointly by Erasmus University Rotterdam, University of Amsterdam and Vrije Universiteit Amsterdam. 
+          The programme is a selective research master connected to PhD opportunities. I specialized in finance and econometrics, with advanced coursework in econometric theory, asset pricing, corporate finance and quantitative methods.
 
       - degree: BSc in Economics and Business Economics (cum laude)
         university: Vrije Universiteit Amsterdam
         time: Sep 2017 - Aug 2020
         details: |
-          Specialized in finance and econometrics. Completed minor in econometrics and worked one year as a University Research Fellow
-          researching the impact of Covid-19 on financial markets using advanced time-series models.
+          Specialized in finance and econometrics. Completed a minor in econometrics and worked for one year as a University Research Fellow, researching the impact of Covid-19 on financial markets using advanced time-series models.
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
+    - role: Data Scientist - AI/ML Applications
+      time: Feb 2026 - Present
+      company: NN Group
+      details: |
+        - Lead machine learning projects within Leven & Pensioen, including a lead generation model for existing and new business customers.
+        - Responsible for the full modelling workflow: business problem framing, data sourcing, dataset construction, feature engineering, model development, evaluation and stakeholder alignment.
+        - Developed a reusable ML codebase to accelerate model development and improve consistency across projects.
+        - Work closely with business stakeholders to translate commercial and operational challenges into practical AI/ML solutions.
+        - Contribute to the development of AI/ML solutions that are intended to move beyond proof-of-concept and create direct business value.
+        - Focus on reproducible workflows, model explainability, documentation and practical implementation.
+
     - role: Data Scientist - Credit Risk Modelling
-      time: Feb 2023 - Present
+      time: Feb 2023 - Feb 2026
       company: ABN AMRO Bank N.V.
       details: |
-        - Developed PD and LGD models end-to-end (data sourcing, data quality checks, feature engineering, model development, validation, documentation).
-        - Contributed to building a unified modelling codebase for PD and LGD, including automated unit testing and structured workflows.
+        - Developed PD and LGD models end-to-end, including data sourcing, data quality checks, feature engineering, model development, validation support and documentation.
+        - Worked in a highly regulated financial environment with strict requirements for explainability, validation, reproducibility and model governance.
+        - Contributed to a unified modelling codebase for PD and LGD modelling, including structured workflows and reusable modelling components.
         - Set up automated unit testing using Azure DevOps pipelines.
-        - Worked in a highly regulated environment with strict requirements for explainability, validation and reproducibility.
         - Represented model components during stakeholder meetings and regulatory interactions.
-        - Mentored junior team members in modelling workflows and Python best practices.
-        - Collaborated with cross-functional teams (IT, Validation, Business) to deliver models into production.
+        - Collaborated with cross-functional teams including IT, Model Validation, Risk and Business stakeholders.
+        - Mentored junior team members in modelling workflows, Python best practices and code quality.
+        - Gained strong domain expertise in credit risk modelling, financial risk management and regulatory model development.
 
     - role: Economics Teacher
       time: Oct 2022 - Jan 2023
       company: Andreas College
       details: |
-        - Taught economics to high school students (ages 13–17), improving communication and explanation skills.
+        - Worked full-time as an economics teacher in secondary education.
+        - Developed and delivered economics lessons to students with varying levels of prior knowledge.
+        - Strengthened my ability to explain complex concepts clearly, structure learning material and communicate effectively with groups.
 
-    - role: Graduate Teaching Assistant
+    - role: Graduate Researcher
       time: Aug 2021 - Apr 2022
       company: Tinbergen Institute
       details: |
-        - Taught Python programming and Corporate Finance at graduate level.
+        - Conducted graduate-level quantitative research alongside my research master coursework.
+        - Developed mathematical models applying option pricing theory to optimal capital investment decisions for firms.
+        - Worked on translating theoretical financial concepts into formal quantitative models.
 
     - role: University Research Fellow
       time: Aug 2019 - Sep 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        - Conducted empirical research using VAR and VECM time-series models.
-        - Awarded €10,000 research grant.
+        - Conducted empirical research on the impact of Covid-19 on financial markets.
+        - Applied VAR and VECM time-series models to analyse financial market dynamics.
+        - Awarded a €10,000 research grant.
         - Worked primarily in Python.
 
     - role: Student Representative
       time: Sep 2017 - Aug 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        - Provided study information sessions to groups of 50–300 students.
+        - Provided study information sessions to groups of 50–300 prospective and current students.
+        - Developed strong presentation and public speaking skills.
 
     - role: Programme Committee Member
       time: Sep 2017 - Aug 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        - Advised programme management on curriculum improvements.
+        - Advised programme management on curriculum quality and improvements.
+        - Represented student perspectives in discussions with faculty and programme leadership.
 
 publications:
     title: Certifications
@@ -120,21 +141,28 @@ publications:
         link:
         authors:
         conference:
+
 skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Programming — Python (Pandas, PySpark, Scikit-learn), Git, SQL
+      - name: Programming — Python, Pandas, PySpark, Scikit-learn, SQL, Git
         level: 100%
 
-      - name: Machine Learning — PD/LGD modelling, data sourcing, data quality & validation
+      - name: Machine Learning & AI — supervised learning, risk modelling, model evaluation, AI/ML applications
         level: 90%
 
-      - name: MLOps & Cloud — Azure DevOps (CI/CD pipelines, unit testing)
-        level: 70%
+      - name: Financial Modelling — credit risk, PD/LGD modelling, econometrics, time-series modelling
+        level: 90%
 
-      - name: ML Engineering — modular codebases, reproducible workflows
-        level: 70%
+      - name: MLOps & Engineering — Azure DevOps, CI/CD pipelines, unit testing, reproducible workflows
+        level: 75%
 
-      - name: Tools — Databricks, Power BI
-        level: 70%
+      - name: ML Engineering — modular codebases, reusable pipelines, documentation, model workflows
+        level: 75%
+
+      - name: Stakeholder Communication — translating complex analyses into clear business insights
+        level: 85%
+
+      - name: Tools — Databricks, Power BI, Azure DevOps
+        level: 75%
