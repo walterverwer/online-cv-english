@@ -41,7 +41,7 @@ career-profile:
 
       Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, developing PD, LGD and EAD models end-to-end in a highly regulated financial environment. My background combines hands-on model development, stakeholder communication, reproducible ML workflows, regulated modelling and financial risk expertise.
 
-      In addition to my corporate data science experience, I have worked as a graduate researcher, university research fellow and full-time economics teacher. These experiences strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
+      My research and teaching experience strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
 
       I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, where I completed PhD-level coursework in economics, econometrics and finance.
 
@@ -83,7 +83,7 @@ experiences:
         - Contributed to a unified modelling codebase for PD and LGD modelling, including structured workflows and reusable modelling components.
         - Set up automated unit testing using Azure DevOps pipelines.
         - Represented model components during stakeholder meetings and regulatory interactions.
-        - Collaborated with cross-functional teams including IT, Model Validation, Risk and Business stakeholders.
+        - Collaborated with cross-functional teams, including IT, Model Validation, Risk and Business stakeholders.
         - Mentored junior team members in modelling workflows, Python best practices and code quality.
         - Gained strong domain expertise in credit risk modelling, financial risk management and regulatory model development.
 
