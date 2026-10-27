@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: walterverwer@gmail.com
     phone: +31 6 445 484 11
-    timezone: Amsterdam (GMT +1)
     citizenship: Dutch
     linkedin: walterverwer
     github: walterverwer
@@ -143,13 +142,13 @@ skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Programming — Python, Pandas, PySpark, Scikit-learn, SQL, Git
+      - name: Programming — Python, PySpark, SQL, Git
         level: 100%
 
       - name: Machine Learning & AI — supervised learning, risk modelling, model evaluation, AI/ML applications
         level: 90%
 
-      - name: Financial Modelling — credit risk, PD/LGD/EAD modelling, GLMs, econometrics, time-series modelling
+      - name: Financial Modelling — credit risk, PD/LGD/EAD modelling, GLMs, time-series modelling
         level: 90%
 
       - name: MLOps & Engineering — Azure DevOps, CI/CD pipelines, unit testing, reproducible workflows
