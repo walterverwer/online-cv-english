@@ -1,3 +1,34 @@
+# Targeted CV: TNO System Engineer - Collaboratieve Autonome Systemen
+# Preserve official job titles, employment dates and verifiable work experience.
+# Skills percentages retained for compatibility with the existing CV template.
+
+sidebar:
+    about: False
+    education: True
+
+    name: Walter Verwer
+    tagline: Software-Intensive Systems | Technical Project Leadership | AI/ML | Quantitative Modelling
+    avatar: walterverwer_cropped.jpeg
+
+    email: walterverwer@gmail.com
+    phone: +31 6 445 484 11
+    citizenship: Dutch
+    linkedin: walterverwer
+    github: walterverwer
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Dutch
+          level: Native
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Autonomous systems & robotics
+        - item: Running, fitness & swimming
         - item: Guitar
 
 career-profile:
@@ -7,7 +38,7 @@ career-profile:
 
       Previously, I spent three years in Credit Risk Modelling at ABN AMRO, implementing complex quantitative methodologies in reusable Python software, introducing automated unit testing and working with model validation, IT and business stakeholders. I also mentored junior colleagues and communicated technical decisions in a highly regulated environment.
 
-      Outside my employment, I have independently built, containerized and deployed software applications using Docker. I am motivated by multidisciplinary engineering challenges that combine mathematical reasoning, software development and practical system integration. I am keen to bring these capabilities to the development of collaborative autonomous systems at TNO, while expanding my expertise in formal systems engineering.
+      My MPhil at Tinbergen Institute provided rigorous, research-oriented training in mathematical modelling, statistics and econometrics. I am motivated by multidisciplinary engineering challenges that combine mathematical reasoning, software development and practical system integration. I am keen to bring these capabilities to the development of collaborative autonomous systems at TNO, while expanding my expertise in formal systems engineering and robotics.
 
 education:
     title: Education
@@ -16,8 +47,8 @@ education:
         university: Tinbergen Institute
         time: Sep 2020 - Aug 2022
         details: |
-          Selective two-year research master's programme with PhD-level coursework, jointly operated by Erasmus University Rotterdam, the University of Amsterdam and Vrije Universiteit Amsterdam.
-          Advanced training in mathematical and statistical modelling, econometric methods, quantitative research and analytical problem-solving.
+          Selective, mathematically intensive two-year research master's programme with PhD-oriented coursework, jointly offered by Erasmus University Rotterdam, the University of Amsterdam and Vrije Universiteit Amsterdam.
+          Strong foundation in applied mathematics, statistics and econometrics, with emphasis on mathematical modelling, quantitative research and the application of rigorous methods to complex problems.
 
       - degree: BSc in Economics and Business Economics (cum laude)
         university: Vrije Universiteit Amsterdam
@@ -87,11 +118,8 @@ skills:
       - name: Integration & Validation - interfaces, integration coordination, test design, model verification and validation
         level: 80%
 
-      - name: Software Engineering - Python, PySpark, SQL, Git, modular codebases, unit testing, Azure DevOps CI/CD
+      - name: Software Engineering - Python, PySpark, SQL, Git, Docker, modular codebases, unit testing, Azure DevOps CI/CD
         level: 90%
-
-      - name: Containerization & Deployment - Docker, independent application deployment, collaboration with IT on integration
-        level: 75%
 
       - name: AI & Algorithms - machine learning, model evaluation, LLM applications, multi-agent AI workflows
         level: 85%
