@@ -1,48 +1,13 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
-sidebar:
-    about: False
-    education: True
-
-    # Profile information
-    name: Walter Verwer
-    tagline: Data Scientist | Financial Risk Modelling | AI/ML Applications | Quantitative Research
-    avatar: walterverwer_cropped.jpeg
-
-    # Sidebar links
-    email: walterverwer@gmail.com
-    phone: +31 6 445 484 11
-    citizenship: Dutch
-    linkedin: walterverwer
-    github: walterverwer
-
-    languages:
-      title: Languages
-      info:
-        - idiom: Dutch
-          level: Native
-        - idiom: English
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Sports (running, fitness & swimming)
-        - item: Fishing
-        - item: Cooking
+        - item: Guitar
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a Data Scientist with a strong quantitative background and professional experience across AI/ML, financial risk modelling, quantitative research and teaching. I currently work at NN, where I lead machine learning projects and develop practical AI/ML solutions that support business decision-making.
+      I am a technically oriented Data Scientist with a research master's degree in econometrics and experience leading the development of software-intensive AI/ML solutions. At NN Group, I take ownership of the technical solution lifecycle: understanding stakeholder needs, translating them into requirements, designing and implementing software, evaluating system behaviour, and collaborating with IT and business teams on integration and deployment. I work in an Agile/Scrum environment and combine hands-on Python development with cross-functional technical coordination.
 
-      Before joining NN, I worked for three years in Credit Risk Modelling at ABN AMRO, developing PD, LGD and EAD models end-to-end in a highly regulated financial environment. My background combines hands-on model development, stakeholder communication, reproducible ML workflows, regulated modelling and financial risk expertise.
+      Previously, I spent three years in Credit Risk Modelling at ABN AMRO, implementing complex quantitative methodologies in reusable Python software, introducing automated unit testing and working with model validation, IT and business stakeholders. I also mentored junior colleagues and communicated technical decisions in a highly regulated environment.
 
-      My research and teaching experience strengthened my ability to structure complex problems, communicate technical concepts clearly and translate quantitative analyses into actionable insights.
-
-      I hold an MPhil in Economics, Econometrics and Finance from Tinbergen Institute, where I completed PhD-level coursework in economics, econometrics and finance.
+      Outside my employment, I have independently built, containerized and deployed software applications using Docker. I am motivated by multidisciplinary engineering challenges that combine mathematical reasoning, software development and practical system integration. I am keen to bring these capabilities to the development of collaborative autonomous systems at TNO, while expanding my expertise in formal systems engineering.
 
 education:
     title: Education
@@ -51,14 +16,14 @@ education:
         university: Tinbergen Institute
         time: Sep 2020 - Aug 2022
         details: |
-          Tinbergen Institute is the graduate school and research institute operated jointly by Erasmus University Rotterdam, University of Amsterdam and Vrije Universiteit Amsterdam. 
-          The programme is a selective research master connected to PhD opportunities. I specialized in finance and econometrics, with advanced coursework in econometric theory, asset pricing, corporate finance and quantitative methods.
+          Selective two-year research master's programme with PhD-level coursework, jointly operated by Erasmus University Rotterdam, the University of Amsterdam and Vrije Universiteit Amsterdam.
+          Advanced training in mathematical and statistical modelling, econometric methods, quantitative research and analytical problem-solving.
 
       - degree: BSc in Economics and Business Economics (cum laude)
         university: Vrije Universiteit Amsterdam
         time: Sep 2017 - Aug 2020
         details: |
-          Specialized in finance and econometrics. Completed a minor in econometrics and worked for one year as a University Research Fellow, researching the impact of Covid-19 on financial markets using advanced time-series models.
+          Specialized in finance and econometrics, including a minor in econometrics. Conducted quantitative research alongside the programme as a University Research Fellow.
 
 experiences:
   title: Experience
@@ -67,98 +32,72 @@ experiences:
       time: Feb 2026 - Present
       company: NN Group
       details: |
-        - Lead machine learning projects within Leven & Pensioen, including a dynamic pricing model for existing and new business customers.
-        - Own the full modelling workflow: business problem framing, data sourcing, dataset construction, feature engineering, model development, evaluation and stakeholder alignment.
-        - Developed a reusable ML codebase to accelerate model development and improve consistency across projects.
-        - Work closely with business stakeholders to translate commercial and operational challenges into AI/ML solutions, with a focus on implementation, adoption, explainability and measurable business value.
-        - Apply reproducible workflows, clear documentation and practical model governance to ensure solutions are robust and transferable.
+        - Lead the technical development of software-intensive AI/ML solutions for Life & Pensions, from initial business need and feasibility assessment through solution design, implementation and evaluation; collaborate with IT on integration and deployment activities.
+        - Elicit stakeholder needs and translate them into functional requirements, measurable success criteria, technical designs and implementation constraints, together with business owners and IT.
+        - Decompose business processes into software components, interfaces and data flows; design and implement modular, reusable Python-based solutions with attention to reliability, maintainability and explainability.
+        - Work with IT and operational stakeholders on technical dependencies, integration, deployment readiness and alignment with existing enterprise systems; production releases are carried out in collaboration with delivery teams.
+        - Evaluate solution behaviour, document design choices and test outcomes, and iterate on solutions within Agile/Scrum workflows.
+        - Work on pension pricing models and AI-based business-process automation, including translation, document-information extraction and multi-agent AI workflows.
 
     - role: Data Scientist - Credit Risk Modelling
       time: Feb 2023 - Feb 2026
       company: ABN AMRO Bank N.V.
       details: |
-        - Developed PD, LGD and EAD models end-to-end, including data sourcing, data quality checks, feature engineering, model development, validation support and documentation.
-        - Worked in a highly regulated financial environment with strict requirements for explainability, validation, reproducibility and model governance.
-        - Contributed to a unified modelling codebase for PD and LGD modelling, including structured workflows and reusable modelling components.
-        - Set up automated unit testing using Azure DevOps pipelines.
-        - Represented model components during stakeholder meetings and regulatory interactions.
-        - Collaborated with cross-functional teams, including IT, Model Validation, Risk and Business stakeholders.
-        - Mentored junior team members in modelling workflows, Python best practices and code quality.
-        - Gained strong domain expertise in credit risk modelling, financial risk management and regulatory model development.
+        - Developed quantitative PD, LGD and EAD models and their Python implementations, translating mathematical methodologies and regulatory requirements into reproducible model components and calculations.
+        - Contributed to the design of a modular modelling codebase, with reusable software components and structured end-to-end workflows.
+        - Implemented automated unit testing with Azure DevOps CI/CD pipelines, supporting reliable model development and controlled software changes.
+        - Worked with IT, Model Validation, Risk and business stakeholders to clarify technical requirements, resolve dependencies, support model verification and document decisions and limitations.
+        - Presented technical methods, assumptions and model outcomes in stakeholder and regulatory discussions.
+        - Mentored junior colleagues in quantitative modelling, Python development, testing practices and code quality.
 
     - role: Economics Teacher
       time: Oct 2022 - Jan 2023
       company: Andreas College
       details: |
-        - Worked full-time as an economics teacher in secondary education.
-        - Developed and delivered economics lessons to students with varying levels of prior knowledge.
-        - Strengthened my ability to explain complex concepts clearly, structure learning material and communicate effectively with groups.
+        - Designed and delivered structured lessons, explaining complex concepts clearly and adapting technical communication to different audiences.
 
     - role: Graduate Researcher
       time: Aug 2021 - Apr 2022
       company: Tinbergen Institute
       details: |
-        - Conducted graduate-level quantitative research alongside my research master coursework.
-        - Developed mathematical models applying option pricing theory to optimal capital investment decisions for firms.
-        - Worked on translating theoretical financial concepts into formal quantitative models.
+        - Developed mathematical models applying option-pricing theory to optimal corporate investment decisions.
+        - Translated theoretical questions into quantitative models, evaluated assumptions and communicated research outcomes.
 
     - role: University Research Fellow
       time: Aug 2019 - Sep 2020
       company: Vrije Universiteit Amsterdam
       details: |
-        - Conducted empirical research on the impact of Covid-19 on financial markets.
-        - Applied VAR and VECM time-series models to analyse financial market dynamics.
-        - Awarded a €10,000 research grant.
-        - Worked primarily in Python.
-
-    - role: Student Representative
-      time: Sep 2017 - Aug 2020
-      company: Vrije Universiteit Amsterdam
-      details: |
-        - Provided study information sessions to groups of 50–300 prospective and current students.
-        - Developed strong presentation and public speaking skills.
-
-    - role: Programme Committee Member
-      time: Sep 2017 - Aug 2020
-      company: Vrije Universiteit Amsterdam
-      details: |
-        - Advised programme management on curriculum quality and improvements.
-        - Represented student perspectives in discussions with faculty and programme leadership.
+        - Conducted quantitative research on the impact of Covid-19 on financial markets, implementing VAR and VECM time-series analyses in Python.
+        - Awarded a EUR 10,000 research grant.
 
 publications:
-    title: Certifications
+    title: Certification
     papers:
       - title: Databricks Certified Data Analyst
         link:
         authors:
         conference:
 
-      - title: Microsoft PL-300 — Power BI Data Analyst
-        link:
-        authors:
-        conference:
-
 skills:
-    title: Skills & Proficiency
-
+    title: Technical & Systems Skills
     toolset:
-      - name: Programming — Python, PySpark, SQL, Git
-        level: 100%
+      - name: Systems Development - requirements analysis, stakeholder needs, functional decomposition, solution design
+        level: 80%
 
-      - name: Machine Learning & AI — supervised learning, risk modelling, model evaluation, AI/ML applications
+      - name: Integration & Validation - interfaces, integration coordination, test design, model verification and validation
+        level: 80%
+
+      - name: Software Engineering - Python, PySpark, SQL, Git, modular codebases, unit testing, Azure DevOps CI/CD
         level: 90%
 
-      - name: Financial Modelling — credit risk, PD/LGD/EAD modelling, GLMs, time-series modelling
+      - name: Containerization & Deployment - Docker, independent application deployment, collaboration with IT on integration
+        level: 75%
+
+      - name: AI & Algorithms - machine learning, model evaluation, LLM applications, multi-agent AI workflows
+        level: 85%
+
+      - name: Quantitative Research - mathematical modelling, statistics, econometrics, time-series and risk models
         level: 90%
 
-      - name: MLOps & Engineering — Azure DevOps, CI/CD pipelines, unit testing, reproducible workflows
-        level: 75%
-
-      - name: ML Engineering — modular codebases, reusable pipelines, documentation, model workflows
-        level: 75%
-
-      - name: Stakeholder Communication — translating complex analyses into clear business insights
+      - name: Technical Leadership - Agile/Scrum, stakeholder management, interdisciplinary collaboration, mentoring
         level: 90%
-
-      - name: Tools — Databricks, Power BI, Azure DevOps
-        level: 75%
