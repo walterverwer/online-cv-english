@@ -115,7 +115,7 @@ skills:
         level: 80%
 
       - name: Integration & Validation - interfaces, integration coordination, test design, model verification and validation
-        level: 80%
+        level: 70%
 
       - name: Software Engineering - Python, PySpark, SQL, Git, Docker, modular codebases, unit testing, Azure DevOps CI/CD
         level: 100%
