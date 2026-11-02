@@ -118,10 +118,10 @@ skills:
         level: 80%
 
       - name: Software Engineering - Python, PySpark, SQL, Git, Docker, modular codebases, unit testing, Azure DevOps CI/CD
-        level: 90%
+        level: 100%
 
       - name: AI & Algorithms - machine learning, model evaluation, LLM applications, multi-agent AI workflows
-        level: 85%
+        level: 90%
 
       - name: Quantitative Research - mathematical modelling, statistics, econometrics, time-series and risk models
         level: 90%
