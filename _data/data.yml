@@ -7,7 +7,7 @@ sidebar:
     education: True
 
     name: Walter Verwer
-    tagline: Intelligent Software Systems | Technical Project Leadership | AI/ML | Quantitative Modelling
+    tagline: Software-intensive Systems | Technical Project Leadership | AI/ML | Quantitative Modelling
     avatar: walterverwer_cropped.jpeg
 
     email: walterverwer@gmail.com
@@ -33,7 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a technically oriented Data Scientist with a research master's degree in econometrics and experience leading the development of software-intensive AI/ML solutions. At NN Group, I take ownership of the technical solution lifecycle: understanding stakeholder needs, translating them into requirements, designing and implementing software, evaluating system behaviour, and collaborating with IT and business teams on integration and deployment. I work in an Agile/Scrum environment and combine hands-on Python development with cross-functional technical coordination.
+      I am a technically oriented Data Scientist with a research master's degree in econometrics and experience leading the development of software-intensive, intelligent AI/ML systems. At NN, I take ownership of the technical solution lifecycle: understanding stakeholder needs, translating them into requirements, designing and implementing software, evaluating system behaviour, and collaborating with IT and business teams on integration and deployment. I work in an Agile/Scrum environment and combine hands-on Python development with cross-functional technical coordination.
 
       Previously, I spent three years in Credit Risk Modelling at ABN AMRO, implementing complex quantitative methodologies in reusable Python software, introducing automated unit testing and working with model validation, IT and business stakeholders. I also mentored junior colleagues and communicated technical decisions in a highly regulated environment.
 
@@ -75,7 +75,7 @@ experiences:
       details: |
         - Developed quantitative PD, LGD and EAD models and their Python implementations, translating mathematical methodologies and regulatory requirements into reproducible model components and calculations.
         - Contributed to the design of a modular modelling codebase, with reusable software components and structured end-to-end workflows.
-        - Implemented automated unit testing with Azure DevOps CI/CD pipelines, supporting reliable model development and controlled software changes.
+        - Implemented automated unit testing in Azure DevOps CI/CD pipelines to improve software reliability and detect regressions during model development.
         - Worked with IT, Model Validation, Risk and business stakeholders to clarify technical requirements, resolve dependencies, support model verification and document decisions and limitations.
         - Presented technical methods, assumptions and model outcomes in stakeholder and regulatory discussions.
         - Mentored junior colleagues in quantitative modelling, Python development, testing practices and code quality.
