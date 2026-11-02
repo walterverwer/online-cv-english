@@ -100,13 +100,6 @@ experiences:
         - Conducted quantitative research on the impact of Covid-19 on financial markets, implementing VAR and VECM time-series analyses in Python.
         - Awarded a EUR 10,000 research grant.
 
-publications:
-    title: Certification
-    papers:
-      - title: Databricks Certified Data Analyst
-        link:
-        authors:
-        conference:
 
 skills:
     title: Technical & Systems Skills
