@@ -86,9 +86,7 @@ experiences:
       time: Oct 2022 - Jan 2023
       company: Andreas College
       details: |
-        - Worked full-time as an economics teacher in secondary education.
-        - Developed and delivered economics lessons to students with varying levels of prior knowledge.
-        - Strengthened my ability to explain complex concepts clearly, structure learning material and communicate effectively with groups.
+        - Designed and delivered structured lessons, explaining complex concepts clearly to different audiences.
 
     - role: Graduate Researcher
       time: Aug 2021 - Apr 2022
@@ -105,22 +103,22 @@ experiences:
         - Awarded a EUR 10,000 research grant.
 
 skills:
-    title: Technical & Systems Skills
+    title: Technical Skills
     toolset:
-      - name: Systems Development - requirements analysis, functional decomposition, solution design, interfaces, integration coordination
+      - name: Software & Systems Development - requirements analysis, functional decomposition, software architecture, API design, system integration
+        level: 70%
+
+      - name: Software Engineering - Python, object-oriented programming, modular software design, Docker, Git, automated testing, CI/CD
+        level: 90%
+
+      - name: Dynamical Systems & Estimation - state-space models, Kalman filtering, Bayesian estimation, stochastic processes, multivariate time series
         level: 80%
 
-      - name: Software Engineering - Python, PySpark, SQL, Git, Docker, API-based applications, modular code, unit testing, Azure DevOps CI/CD
+      - name: Optimization & Algorithms - numerical optimization, constrained optimization, dynamic programming, graph search (Dijkstra, A*), Monte Carlo simulation
+        level: 80%
+
+      - name: Statistical Modelling & AI - statistical inference, probabilistic modelling, uncertainty quantification, supervised learning, unsupervised learning
         level: 90%
 
-      - name: Applied Mathematics - probability, stochastic processes, statistical inference, optimization, time-series and quantitative modelling
-        level: 90%
-
-      - name: Algorithms & Estimation - decision-making under uncertainty, graph-search concepts (Dijkstra, A*), Kalman filtering
-        level: 75%
-
-      - name: AI & Machine Learning - probabilistic prediction, model evaluation, LLM applications, multi-agent AI workflows
-        level: 85%
-
-      - name: Technical Ownership & Collaboration - Agile/Scrum, stakeholder management, multidisciplinary collaboration, mentoring
-        level: 90%
+      - name: Technical Ownership & Collaboration - Agile/Scrum, stakeholder management, technical coordination, multidisciplinary collaboration, mentoring
+        level: 80%
