@@ -75,7 +75,7 @@ experiences:
         time: Feb 2023 - Feb 2026
         company: ABN AMRO Bank N.V.
         details: |
-          - Developed PD, LGD and EAD models and implemented quantitative methodologies in Python, including statistical estimation, calibration and analysis of model assumptions.
+          - Developed credit risk rating systems and implemented quantitative methodologies in Python, including statistical estimation, calibration and analysis of model assumptions.
           - Designed and built a reusable Python-based machine learning codebase to accelerate model development and standardize workflows across risk modelling projects.
           - Structured mathematical methods as modular software components, improving reusability, consistency and maintainability.
           - Collaborated with IT, Model Validation and Risk teams on requirements, model verification, technical dependencies and documentation; used Azure DevOps pipelines for automated unit tests.
