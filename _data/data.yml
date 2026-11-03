@@ -34,7 +34,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a technically oriented Data Scientist with a mathematically intensive research master's degree and experience developing intelligent, software-intensive systems. At NN Group, I take technical ownership of AI/ML components throughout the development lifecycle: translating stakeholder needs into requirements, designing and implementing Python-based solutions, evaluating their behaviour, and coordinating integration with IT and business teams.
+      I am a technically oriented Data Scientist with a mathematically intensive research master's degree and experience developing intelligent, software-intensive systems. At NN, I take technical ownership of AI/ML components throughout the development lifecycle: translating stakeholder needs into requirements, designing and implementing Python-based solutions, evaluating their behaviour, and coordinating integration with IT and business teams.
 
       Previously, I spent three years in Credit Risk Modelling at ABN AMRO, where I developed quantitative models and built a reusable Python-based machine learning codebase to accelerate and standardize model development. This experience combines mathematical modelling, probabilistic reasoning, modular software design and collaboration with multidisciplinary stakeholders.
 
@@ -62,7 +62,7 @@ experiences:
     info:
       - role: Data Scientist - AI/ML Applications
         time: Feb 2026 - Present
-        company: NN Group
+        company: NN
         details: |
           - Take technical ownership of the AI/ML workstream within projects, from stakeholder needs and feasibility assessment through requirements, solution design, Python implementation and evaluation.
           - Translate business needs into functional requirements, measurable success criteria and technical constraints in collaboration with business owners and IT.
