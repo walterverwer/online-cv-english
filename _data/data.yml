@@ -109,7 +109,7 @@ skills:
         level: 70%
 
       - name: Software Engineering - Python, object-oriented programming, reusable frameworks, APIs, Docker, Git, Azure DevOps CI/CD
-        level: 90%
+        level: 80%
 
       - name: Dynamical Systems & Estimation - state-space models, Kalman filtering, Bayesian estimation, stochastic processes, multivariate time series
         level: 80%
