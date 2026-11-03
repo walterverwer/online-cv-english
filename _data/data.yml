@@ -1,13 +1,13 @@
 # Targeted CV: TNO System Engineer - Collaboratieve Autonome Systemen
-# Official job titles and dates retained. Applied robotics topics are presented
-# as conceptual knowledge, not professional implementation experience.
+# Official titles, dates and credentials retained.
+# Robotics-related algorithms reflect mathematical knowledge, not professional robotics experience.
 
 sidebar:
     about: False
     education: True
 
     name: Walter Verwer
-    tagline: Software-Intensive Systems | Applied Mathematics | Technical Leadership | AI/ML
+    tagline: Software-Intensive Systems | Applied Mathematics | AI/ML | Technical Ownership
     avatar: walterverwer_cropped.jpeg
 
     email: walterverwer@gmail.com
@@ -28,17 +28,17 @@ sidebar:
       title: Interests
       info:
         - item: Running, fitness, fishing
-        - item: Guitar, Gaming & Cooking
-        - item: "Favorite Game: Factorio"
+        - item: Guitar, gaming & cooking
+        - item: "Favorite game: Factorio"
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a technically oriented Data Scientist with a mathematically intensive research master's degree and experience leading the development of intelligent, software-intensive systems. At NN Group, I work across the solution lifecycle: translating stakeholder needs into requirements, designing and implementing Python-based solutions, evaluating system behaviour, and coordinating integration with IT and business teams in an Agile/Scrum environment.
+      I am a technically oriented Data Scientist with a mathematically intensive research master's degree and experience developing intelligent, software-intensive systems. At NN Group, I take technical ownership of AI/ML components throughout the development lifecycle: translating stakeholder needs into requirements, designing and implementing Python-based solutions, evaluating their behaviour, and coordinating integration with IT and business teams.
 
-      Previously, I spent three years in Credit Risk Modelling at ABN AMRO, translating quantitative methodologies into reusable software, introducing automated testing, and collaborating with IT, model validation and business stakeholders. My experience combines software engineering, mathematical modelling, uncertainty quantification and the use of probabilistic model outcomes to support practical decisions.
+      Previously, I spent three years in Credit Risk Modelling at ABN AMRO, where I developed quantitative models and built a reusable Python-based machine learning codebase to accelerate and standardize model development. This experience combines mathematical modelling, probabilistic reasoning, modular software design and collaboration with multidisciplinary stakeholders.
 
-      My research master at Tinbergen Institute provided a strong foundation in applied mathematics, statistics and econometrics. I am particularly interested in multidisciplinary engineering problems involving algorithms, decision-making under uncertainty and reliable system integration. I would like to apply these skills to collaborative autonomous systems at TNO while developing deeper expertise in robotics and formal systems engineering.
+      My research training provides a strong foundation in stochastic processes, state-space estimation, statistical inference and optimization. I am motivated by engineering problems that bring together algorithms, software architecture and real-world system integration, and would like to apply these skills to collaborative autonomous systems at TNO while developing expertise in robotics and formal systems engineering.
 
 education:
     title: Education
@@ -47,77 +47,76 @@ education:
         university: Tinbergen Institute
         time: Sep 2020 - Aug 2022
         details: |
-          Specialization in econometrics and finance. The programme is a selective, mathematically intensive two-year research master's programme with PhD-oriented coursework, jointly offered by Erasmus University Rotterdam, the University of Amsterdam and Vrije Universiteit Amsterdam.
-          Strong foundation in applied mathematics, probability, statistics and econometrics, with an emphasis on stochastic modelling, quantitative methods and rigorous analysis of complex problems.
+          Selective, mathematically intensive two-year research master's programme specializing in econometrics and finance, with PhD-oriented coursework. The institute is jointly operated by Erasmus University Rotterdam, the University of Amsterdam and Vrije Universiteit Amsterdam.
+          Advanced training in applied mathematics, probability, stochastic modelling, statistics and econometric methods, with an emphasis on rigorous quantitative analysis.
           Fully funded through a monthly scholarship and full tuition waiver.
 
       - degree: BSc in Economics and Business Economics (cum laude)
         university: Vrije Universiteit Amsterdam
         time: Sep 2017 - Aug 2020
         details: |
-          Specialized in econometrics. Conducted quantitative research alongside the programme as a University Research Fellow.
+          Specialized in econometrics, including a minor in econometrics. Conducted quantitative research alongside the programme as a University Research Fellow.
 
 experiences:
-  title: Experience
-  info:
-    - role: Data Scientist - AI/ML Applications
-      time: Feb 2026 - Present
-      company: NN Group
-      details: |
-        - Lead the technical development of intelligent, software-intensive AI/ML solutions for Life & Pensions, from stakeholder needs and feasibility assessment through solution design, implementation, evaluation and coordination with IT on production integration.
-        - Translate stakeholder needs into functional requirements, measurable success criteria, technical designs and implementation constraints, in collaboration with business owners and IT.
-        - Break down business processes into software components, interfaces and data flows; design reusable Python-based solutions, including functionality exposed through APIs.
-        - Evaluate model and system behaviour, including uncertainty, reliability and edge cases; document technical decisions, assumptions and test results.
-        - Coordinate technical dependencies, integration readiness and operational considerations with IT and business teams, working within Agile/Scrum processes.
-        - Work on pension pricing models and AI-enabled process automation, including classification models, document-information extraction and multi-agent AI workflows.
+    title: Experience
+    info:
+      - role: Data Scientist - AI/ML Applications
+        time: Feb 2026 - Present
+        company: NN Group
+        details: |
+          - Take technical ownership of the AI/ML workstream within projects, from stakeholder needs and feasibility assessment through requirements, solution design, Python implementation and evaluation.
+          - Translate business needs into functional requirements, measurable success criteria and technical constraints in collaboration with business owners and IT.
+          - Design modular software components, interfaces and data flows, including Python-based solutions that integrate with other applications through APIs.
+          - Coordinate technical dependencies, integration readiness and implementation activities with IT and operational teams; work within Agile/Scrum processes.
+          - Evaluate model and system behaviour, reliability and edge cases, and document assumptions, design decisions and outcomes.
+          - Work on pension pricing and AI-driven process automation, including classification, document-information extraction and LLM-based multi-agent workflows.
 
-    - role: Data Scientist - Credit Risk Modelling
-      time: Feb 2023 - Feb 2026
-      company: ABN AMRO Bank N.V.
-      details: |
-        - Developed quantitative PD, LGD and EAD models and Python implementations, translating mathematical methodologies and regulatory requirements into reusable model components and calculations.
-        - Applied statistical modelling and uncertainty quantification to estimate financial risks and support decisions based on probabilistic outcomes.
-        - Contributed to a modular modelling codebase with reusable software components and reproducible end-to-end workflows.
-        - Implemented automated unit tests in Azure DevOps CI/CD pipelines to detect regressions and improve software reliability during model development.
-        - Worked with IT, Model Validation, Risk and business stakeholders on technical requirements, model verification, dependencies and documentation.
-        - Presented technical assumptions and outcomes in stakeholder and regulatory discussions, and mentored junior colleagues in Python, modelling and code quality.
+      - role: Data Scientist - Credit Risk Modelling
+        time: Feb 2023 - Feb 2026
+        company: ABN AMRO Bank N.V.
+        details: |
+          - Developed PD, LGD and EAD models and implemented quantitative methodologies in Python, including statistical estimation, calibration and analysis of model assumptions.
+          - Designed and built a reusable Python-based machine learning codebase to accelerate model development and standardize workflows across risk modelling projects.
+          - Structured mathematical methods as modular software components, improving reusability, consistency and maintainability.
+          - Collaborated with IT, Model Validation and Risk teams on requirements, model verification, technical dependencies and documentation; used Azure DevOps pipelines for automated unit tests.
+          - Explained model methodologies and outcomes to technical and non-technical stakeholders, including in regulatory discussions, and mentored junior colleagues in modelling and Python development.
 
-    - role: Economics Teacher
-      time: Oct 2022 - Jan 2023
-      company: Andreas College
-      details: |
-        - Designed and delivered structured lessons, explaining complex concepts clearly to different audiences.
+      - role: Economics Teacher
+        time: Oct 2022 - Jan 2023
+        company: Andreas College
+        details: |
+          - Designed and delivered structured lessons, communicating complex concepts clearly to different audiences.
 
-    - role: Graduate Researcher
-      time: Aug 2021 - Apr 2022
-      company: Tinbergen Institute
-      details: |
-        - Developed mathematical models applying option-pricing theory to optimal corporate investment decisions.
-        - Translated theoretical questions into quantitative models, evaluated assumptions and communicated research outcomes.
+      - role: Graduate Researcher
+        time: Aug 2021 - Apr 2022
+        company: Tinbergen Institute
+        details: |
+          - Developed mathematical models applying option-pricing theory to optimal corporate investment decisions.
+          - Translated theoretical questions into quantitative models, evaluated assumptions and communicated research outcomes.
 
-    - role: University Research Fellow
-      time: Aug 2019 - Sep 2020
-      company: Vrije Universiteit Amsterdam
-      details: |
-        - Conducted quantitative research on the impact of Covid-19 on financial markets, implementing VAR and VECM time-series analyses in Python.
-        - Awarded a EUR 10,000 research grant.
+      - role: University Research Fellow
+        time: Aug 2019 - Sep 2020
+        company: Vrije Universiteit Amsterdam
+        details: |
+          - Conducted quantitative research on the impact of Covid-19 on financial markets, implementing VAR and VECM time-series analyses in Python.
+          - Awarded a EUR 10,000 research grant.
 
 skills:
     title: Technical Skills
     toolset:
-      - name: Software & Systems Development - requirements analysis, functional decomposition, software architecture, API design, system integration
+      - name: Software & Systems Development - requirements analysis, functional decomposition, modular architecture, interface design, integration coordination
         level: 70%
 
-      - name: Software Engineering - Python, object-oriented programming, modular software design, Docker, Git, automated testing, CI/CD
+      - name: Software Engineering - Python, object-oriented programming, reusable frameworks, APIs, Docker, Git, Azure DevOps CI/CD
         level: 90%
 
       - name: Dynamical Systems & Estimation - state-space models, Kalman filtering, Bayesian estimation, stochastic processes, multivariate time series
         level: 80%
 
-      - name: Optimization & Algorithms - numerical optimization, constrained optimization, dynamic programming, graph search (Dijkstra, A*), Monte Carlo simulation
+      - name: Optimization & Algorithms - numerical and constrained optimization, dynamic programming, graph search (Dijkstra, A*), Monte Carlo simulation
         level: 80%
 
-      - name: Statistical Modelling & AI - statistical inference, probabilistic modelling, uncertainty quantification, supervised learning, unsupervised learning
+      - name: Statistical Modelling & AI - statistical inference, probabilistic modelling, uncertainty quantification, supervised and unsupervised learning, LLM-based agents
         level: 90%
 
       - name: Technical Ownership & Collaboration - Agile/Scrum, stakeholder management, technical coordination, multidisciplinary collaboration, mentoring
